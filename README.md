@@ -1,2 +1,2 @@
-# muproject
+# myproject
 abc
